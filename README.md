@@ -10,7 +10,7 @@ Integrantes do grupo:
 ## Como compilar o código
 O projeto foi desenvolvido utilizando o WSL com o ubuntu 20.04.2 LTS.
 
-Em seguida utilize o seguinte comando no terminal linux:
+Utilize o seguinte comando no terminal linux:
 
 ```
 python3 simulador.p
