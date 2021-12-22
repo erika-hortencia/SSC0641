@@ -18,6 +18,7 @@ python3 simulador.p
 
 ## A aplicação
 A aplicação reproduz o fluxo abaixo:
+
 ![Fluxo](./img/fluxo.PNG)
 
 São implementados três métodos de detecção de erros:
@@ -29,5 +30,7 @@ Para selecionar um deles, altere o valor da variável ```tipoControle``` da segu
 - 0 => para controle de paridade par
 - 1 => para controle de paridade ímpar
 - 2 => para cyclic redundancy check
+
+![Variaveis_alteraveis](./img/tipoErro.PNG)
 
 O percentual de erro também pode ser controlado ao se alterar o valor da variável ```porcentagemDeErros``` (sendo que o valor 0 garante ausência de erros e o valor 100 assegura que ocorrerá erro)
